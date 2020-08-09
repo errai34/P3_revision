@@ -1,0 +1,7 @@
+7dotS39_ALL_nocuts_extendedFMT.txt cleaned the columns in Routines/etl.ipynb and saved to ../data/andrea_data_proc.csv
+7dotS39_ALL_FiorenzoFMT.txt was in a strange format, had to edit it in Routines/etl.ipynb (1)
+Merged the edited 7dotS39_ALL_FiorenzoFMT.txt  to andrea_data_proc.csv and saved to ../data/andrea_data/Rcut_andrea_data_proc.csv
+
+Rcut_andrea_data_proc.csv was cross-matched to Gaia DR2 via TOPCAT's X-match (2) and APOGEE data (allStar-l131c.fits) (3) and saved as ..data/BINGO_full_info.csv (4)
+
+
